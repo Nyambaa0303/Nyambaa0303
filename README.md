@@ -1,9 +1,9 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)))
+![logo](
 <h1 align="center">Hi 👋, I'm Nyambaa</h1>
 <h3 align="center">A passionate frontend and backend developer from Mongolia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyambaa0303&label=Profile%20views&color=0e75b6&style=flat" alt="nyambaa0303" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=nyambaa0303&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" alt="nyambaa0303" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
